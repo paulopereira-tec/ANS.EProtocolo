@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ANS.EProtocolo.ApiMock.props" />
+</Project>

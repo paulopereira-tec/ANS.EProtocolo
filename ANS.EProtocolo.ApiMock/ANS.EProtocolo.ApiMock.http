@@ -1,0 +1,6 @@
+@ANS.EProtocolo.ApiMock_HostAddress = http://localhost:5175
+
+GET {{ANS.EProtocolo.ApiMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ANS.EProtocolo.Domain/1.0.0": {
+        "runtime": {
+          "ANS.EProtocolo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ANS.EProtocolo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

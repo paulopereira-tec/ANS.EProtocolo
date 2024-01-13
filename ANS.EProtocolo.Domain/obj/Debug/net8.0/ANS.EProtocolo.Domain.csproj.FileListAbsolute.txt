@@ -1,0 +1,11 @@
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\bin\Debug\net8.0\ANS.EProtocolo.Domain.deps.json
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\bin\Debug\net8.0\ANS.EProtocolo.Domain.dll
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\bin\Debug\net8.0\ANS.EProtocolo.Domain.pdb
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.AssemblyInfo.cs
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.dll
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\refint\ANS.EProtocolo.Domain.dll
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ANS.EProtocolo.Domain.pdb
+C:\Users\paulo_lod5l8o\OneDrive\Documentos\DotCreative\ANS.EProtocolo\ANS.EProtocolo.Domain\obj\Debug\net8.0\ref\ANS.EProtocolo.Domain.dll
